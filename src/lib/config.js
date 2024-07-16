@@ -22,6 +22,6 @@ export const LANGUAGES_CODE = {
 const locals = Object.keys(LANGUAGES);
 
 export const CONFIG = {
-    website: 'https://shoteasy.fun',
+    website: 'https://pic.fiit.ai',
     locals
 }

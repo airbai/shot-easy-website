@@ -1,18 +1,18 @@
-# ShotEasy - take a screenshot online
+# PicFiit - take a screenshot online
 
 Photo edit online for free, resize, and filter any photos, edit photo on browser, convert image to jpg/png/jpeg/webp, easy to screenshot area or full page
 
 [🏆 Chrome Extension](https://chromewebstore.google.com/detail/nmppkehciohcgcehlnifgeokgioidknh)
 
-[🏞️ Image Editor](https://shoteasy.fun/)
+[🏞️ Image Editor](https://pic.fiit.ai/)
 
-[😱 Screenshot Beautifier](https://shoteasy.fun/screenshot-beautifier/)
+[😱 Screenshot Beautifier](https://pic.fiit.ai/screenshot-beautifier/)
 
-[🚴 Photo to Rounded](https://shoteasy.fun/photo-to-rounded/)
+[🚴 Photo to Rounded](https://pic.fiit.ai/photo-to-rounded/)
 
-[🎉 Background Remover](https://shoteasy.fun/background-remover/)
+[🎉 Background Remover](https://pic.fiit.ai/background-remover/)
 
-[😬 Image Compressor](https://shoteasy.fun/image-compressor/)
+[😬 Image Compressor](https://pic.fiit.ai/image-compressor/)
 
 ## Blog
 

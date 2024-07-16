@@ -162,7 +162,7 @@ export default function Beautifier() {
         setLoading(true);
         mergeCanvas().then(canvas => {
             const dataUrl = canvas.toDataURL();
-            toDownloadFile(dataUrl, 'shotEasy.png');
+            toDownloadFile(dataUrl, 'pic.fiit.ai.png');
             messageApi.success('Download Success!');
         }).catch(error => {
             console.log(error);
