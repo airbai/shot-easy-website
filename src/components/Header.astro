@@ -12,17 +12,20 @@ const navList = [
     {
         path: '/',
         title: nav.editor.title,
-        name: nav.editor.name
+        name: nav.editor.name,
+        isAbsolute: false
     },
     {
         path: '/screenshot-beautifier',
         title: nav.beautifier.title,
-        name: nav.beautifier.name
+        name: nav.beautifier.name,
+        isAbsolute: false
     },
     {
         path: '/photo-to-rounded',
         title: nav.rounded.title,
-        name: nav.rounded.name
+        name: nav.rounded.name,
+        isAbsolute: true
     },
     {
         path: 'https://remove.fiit.ai/',
@@ -33,12 +36,14 @@ const navList = [
     {
         path: '/image-compressor',
         title: nav.compressor.title,
-        name: nav.compressor.name
+        name: nav.compressor.name,
+        isAbsolute: false
     },
     {
         path: '/take-a-screenshot',
         title: nav.screenshot.title,
-        name: nav.screenshot.name
+        name: nav.screenshot.name,
+        isAbsolute: false
     },
 ];
 
